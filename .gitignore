@@ -33,3 +33,14 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+.DS_Store
+#======
+# OS
+#======
+.DS_Store?
+._*
+.Spotlighit-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db

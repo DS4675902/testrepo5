@@ -373,7 +373,7 @@ GameObject:
   - component: {fileID: 1046242661}
   - component: {fileID: 1046242660}
   m_Layer: 0
-  m_Name: Flore
+  m_Name: Floore
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
